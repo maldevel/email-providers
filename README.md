@@ -1,1 +1,1 @@
-# email-providers
+# Free email providers list
